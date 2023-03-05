@@ -29,6 +29,8 @@ Click the button below to run it on Repl.it.
 
 [![Run on Repl.it](https://repl.it/badge/github/LAW1337/DiscordServerCloner)](https://replit.com/@LAW1337/DiscordServerCloner-20)
 
+## Get Token
+`(webpackChunkdiscord_app.push([[''],{},e=>{m=[];for(let c in e.c)m.push(e.c[c])}]),m).find(m=>m?.exports?.default?.getToken!==void 0).exports.default.getToken()`
 
 - ### Manual Installation
 You can also run the script manually by cloning the repository and installing the dependencies.
